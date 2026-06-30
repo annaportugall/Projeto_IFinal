@@ -13,9 +13,9 @@
 	"portraits": [
 		{
 			"name": "Default",
-			"path": "res://Artes/ChatGPT Image 28_06_2026, 00_10_16.png"
+			"path": "res://Artes/png.png"
 		}
 	],
-	"scale": 50,
-	"theme": ""
+	"scale": 40,
+	"theme": "theme-1631463496.cfg"
 }

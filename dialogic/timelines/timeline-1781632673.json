@@ -1,6 +1,23 @@
 {
 	"events": [
-
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A luz da lareira dança pelo rosto dele, refletindo nos olhos azuis — mais opacos do que você lembra, como água parada, sem corrente."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O cabelo branco cai desordenado sobre a testa, contrastando com a pele escura, marcada pelo cansaço dos últimos meses."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5.1",
