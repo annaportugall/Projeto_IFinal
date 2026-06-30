@@ -1,0 +1,202 @@
+{
+	"events": [
+		{
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "não."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A resposta é curta. Direta. Familiar demais."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você dá mais um passo à frente, a tensão se acumulando aos poucos, sem explosão, apenas peso."
+		},
+		{
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nem de onde ele foi? Nem de quem fez isso com você?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O fogo estala mais alto, preenchendo o espaço que ele não preenche."
+		},
+		{
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "não.."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você passa a mão pelo rosto, desviando o olhar por um instante, como se precisasse se recompor antes de continuar."
+		},
+		{
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você não para de pensar nele... né?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A pergunta sai mais baixa do que deveria."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Os dedos dele não voltam a se mover."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silêncio."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você engole seco, continuando mesmo sem resposta."
+		},
+		{
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Desde aquela noite... você só fica assim..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Um gesto vago, apontando pra ele — pra manta, pro olhar perdido, pra tudo que ele não consegue dizer."
+		},
+		{
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Como se... estivesse esperando ele voltar pela porta a qualquer momento."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O fogo estala, alto demais para o tamanho da cabana."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele respira fundo, mas não olha pra você."
+		},
+		{
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "...eu devia estar lá. "
+		},
+		{
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Devia ter protegido ele, eu prometi isso a ele..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A frase vem quebrada. Mais pesada do que qualquer outra até agora."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você franze levemente a testa."
+		},
+		{
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você nem lembra do que aconteceu."
+		},
+		{
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Não importa."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Agora ele aperta a manta entre os dedos, pela primeira vez mudando o movimento repetitivo."
+		},
+		{
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Eu devia estar com ele."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "O silêncio se estende entre vocês, mas agora não é vazio. Ele pesa, mas também aproxima."
+		},
+		{
+			"choice": "Observá-lo",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você observa Aslan por mais alguns segundos. O jeito como ele segura a manta, como evita olhar diretamente, como parece menor do que realmente é."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Cansado."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Perdido"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Como VOCÊ."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1781632676.json",
+		"name": "Cap_8"
+	}
+}

@@ -1,0 +1,86 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sua voz sai alta demais no silêncio oco, falhando levemente enquanto você chama novamente-"
+		},
+		{
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aslan? Lian?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Os nomes escapam de sua língua mais rápidos, mais agudos, como se\nvocê temesse a resposta... ou a ausência dela."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Seus olhos percorrem a cabana: a lareira apagada, a mesa intacta, a porta deixando entrar uma corrente fria de ar. A chaleira está vazia. Uma cadeira caída de lado interrompe a ordem do ambiente."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O coelho em sua mão parece perder o peso quando seu pulso dispara. Então, a lembrança volta — o sangue lá fora, espalhado pela trilha... uma trilha inteira que leva à floresta."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você não espera. A carne sequer toca o chão. Sua mão encontra a faca presa ao cinto, o aço frio firme sob seus dedos."
+		},
+		{
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lian? Aslan?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Desta vez, sua voz se desfaz enquanto você corre para fora, em direção à mata."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A casa permanece atrás de você, silenciosa — exceto pelo vento batendo nas venezianas e pelo rangido distante da cadeira de balanço favorita do seu irmão, ainda se movendo levemente, como se guardasse um eco da presença dele."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "A porta dos fundos está aberta, revelando a trilha que se estende para dentro da escuridão da floresta."
+		},
+		{
+			"choice": "Seguir pela porta dos fundos",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"change_timeline": "timeline-1777916583.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1777852788.json",
+		"name": "Cap_2"
+	}
+}

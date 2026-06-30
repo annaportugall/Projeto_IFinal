@@ -1,0 +1,20 @@
+{
+	"glossary": [
+		{
+			"extra": "",
+			"id": "1781630498-918",
+			"name": "Faca",
+			"text": "arma branca achada no chão, defesa básica contra inimigos",
+			"title": "Faca",
+			"type": 1
+		}
+	],
+	"variables": [
+		{
+			"id": "1781631819-970",
+			"name": "pulseira_casamento",
+			"type": 0,
+			"value": "false"
+		}
+	]
+}

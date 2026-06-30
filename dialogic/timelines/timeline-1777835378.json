@@ -1,0 +1,86 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As árvores projetam sombras profundas enquanto você caminha de volta pela floresta, com um coelho suspenso no ombro e amoras silvestres na mochila."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O silêncio parece mais pesado que o normal — nenhum pássaro cantando, nenhuma coruja caçando sua presa."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Quando você chega ao topo da colina com vista para sua cabana, há fumaça saindo da chaminé, mas a luz da lareira oscila de forma irregular pelas janelas. A porta está entreaberta, balançando suavemente ao vento."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ao se aproximar da casa, suas botas afundam em algo úmido e pegajoso no caminho. Na penumbra, você distingue manchas escuras que levam até a porta — grandes demais para serem sangue da sua caçada."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O medo aperta seu peito quando você entra."
+		},
+		{
+			"animation": "1-fade_in.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "A lareira guarda apenas cinzas frias"
+		},
+		{
+			"choice": "Chamar sua família.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "teste",
+			"event_id": "dialogic_040"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"change_timeline": "timeline-1777852788.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1777835378.json",
+		"name": "Cap_1"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"color": "#ffe52c0f",
+	"description": "",
+	"display_name": "Amara",
+	"display_name_bool": true,
+	"id": "character-1777839556.json",
+	"mirror_portraits": true,
+	"name": "Amara",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Artes/Amara_Medieval-removebg-preview.png"
+		}
+	],
+	"scale": 100,
+	"theme": "theme-1631463496.cfg"
+}

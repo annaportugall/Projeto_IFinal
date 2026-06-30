@@ -1,0 +1,79 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sua respiração está acelerada agora, cada inspiração brusca enquanto você segue o rastro de sangue em direção às árvores."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O luar ilumina as manchas úmidas em pontos isolados — gotas aqui, uma marca de mão ali, um longo rastro onde alguém foi arrastado."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você se agacha ao lado das manchas mais profundas, os olhos traçando o padrão caótico. Não apenas um corpo, mas dois conjuntos de pegadas em direções opostas."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Seu estômago se revira."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Então você vê..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uma fina corrente de prata brilhando entre as agulhas de pinheiro. A corrente de prata está meio enterrada na terra, quebrada."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Lian sempre a usava — os elos delicados gravados com pequenas trepadeiras que ele mandou fazer para o dia do seu próprio casamento."
+		},
+		{
+			"choice": "Pegar",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "corrente_lian",
+			"event_id": "dialogic_040"
+		},
+		{
+			"choice": "Deixar",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"change_timeline": "timeline-1778864886.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1777916583.json",
+		"name": "Cap_3"
+	}
+}

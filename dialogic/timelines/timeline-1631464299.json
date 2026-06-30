@@ -1,0 +1,138 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você é Amara Armstrong, uma caçadora habilidosa que vive no reino de Verlack. Divide uma casa tranquila com seu irmão gêmeo, Aslan, e seu cunhado, Lian."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1777850547.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Há dias, Aslan adoece, tornando-se mais fraco a cada manhã, e por isso você parte antes do amanhecer para caçar na floresta próxima, garantindo alimento para sua família."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Enquanto você está fora, Lian recebe em casa o Dr. Jekyll Hyde, um médico respeitado do reino, na esperança de encontrar respostas para a doença de Aslan."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A visita transcorre de forma serena — palavras medidas, gestos cuidadosos, nenhum sinal de urgência."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Após cumprir seu dever, o médico se despede e segue seu caminho como de costume, deixando a casa novamente envolta em sua quietude habitual."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A noite já caiu quando você retorna. A floresta, antes viva, agora parece observar em silêncio, e o ar carrega um peso difícil de nomear. Seus passos se aproximam da casa, familiares, quase automáticos — até que algo, ao longe, chama sua atenção."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Entre as árvores, parcialmente engolida pela escuridão, uma carruagem se afasta pela trilha estreita que corta a mata. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As rodas rangem baixo contra a terra úmida, e os cavalos avançam sem pressa, como se já soubessem o caminho."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Não há pressa, nem alarde — apenas a presença silenciosa de algo que não deveria estar ali àquela hora."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Por um instante, você hesita. Talvez seja apenas mais alguém cruzando a floresta... talvez não. Ainda assim, tudo ao seu redor parece intacto, como sempre foi."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você segue em frente. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Sem saber que, naquele exato momento, algo já começou a mudar."
+		},
+		{
+			"choice": "Continuar.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"change_timeline": "timeline-1777835378.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1631464299.json",
+		"name": "DefaultTimeline"
+	}
+}

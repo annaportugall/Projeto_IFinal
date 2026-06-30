@@ -1,0 +1,171 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aslan está sentado próximo à lareira, envolto na colcha que você trouxe das montanhas no verão passado — uma lembrança de um período que agora parece distante demais para pertencer à mesma vida."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O tecido, antes associado a dias longos e despreocupados, agora serve apenas como proteção contra um frio que não é só físico."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Os dedos dele se movem lentamente pela borda da manta, repetindo o mesmo percurso inúmeras vezes, com uma precisão quase inconsciente."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Não é um gesto nervoso, nem exatamente intencional."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "É constante. Como se aquele movimento simples fosse a única coisa que ainda o mantém ancorado ao presente."
+		},
+		{
+			"choice": "Ir até ele",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você para alguns passos dele, observando. Por um momento, parece que ele não percebeu sua presença."
+		},
+		{
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você... tá acordado faz tempo?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A pergunta sai mais baixa do que você pretendia, quebrando o silêncio de forma cuidadosa, quase hesitante."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Há uma pausa."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Não é longa, mas suficiente para gerar dúvidas — se ele escolheu, se entendeu, se vai responder."
+		},
+		{
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "tô."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A voz dele vem baixa, sem força, mas clara. Não há hesitação na resposta, apenas falta de energia, como se cada palavra exigisse mais do que deveria."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O silêncio retorna imediatamente, ocupando o espaço entre vocês com facilidade."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você cruza os braços, mais por hábito do que por necessidade, mantendo o olhar fixo nele por alguns segundos antes de falar de novo."
+		},
+		{
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você devia comer alguma coisa."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você não desvia o olhar."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Os dedos continuam deslizando pela manta, no mesmo ritmo de antes, como se a conversa não tivesse acontecido."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você respira fundo, segurando o ar por um instante antes de soltá-lo devagar."
+		},
+		{
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você lembrou de alguma coisa?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Dessa vez, há uma mudança."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O movimento para."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Não abruptamente, mas o suficiente para quebrar o padrão que vinha se repetindo. Ainda assim, ele não olha para você."
+		},
+		{
+			"choice": "Continuar olhando.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"change_timeline": "timeline-1781632676.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1781632678.json",
+		"name": "Cap_7"
+	}
+}

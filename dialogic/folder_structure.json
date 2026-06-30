@@ -1,0 +1,90 @@
+{
+	"files": [
+
+	],
+	"folders": {
+		"Characters": {
+			"files": [
+				"character-1777851120.json",
+				"character-1777850547.json",
+				"character-1777839556.json"
+			],
+			"folders": {
+
+			},
+			"metadata": {
+				"color": null,
+				"folded": false
+			}
+		},
+		"Definitions": {
+			"files": [
+
+			],
+			"folders": {
+				"Glossário": {
+					"files": [
+						"1781630498-918"
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": true
+					}
+				},
+				"Variáveis": {
+					"files": [
+						"1781631819-970"
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				}
+			},
+			"metadata": {
+				"color": null,
+				"folded": false
+			}
+		},
+		"Themes": {
+			"files": [
+				"theme-1631463496.cfg"
+			],
+			"folders": {
+
+			},
+			"metadata": {
+				"color": null,
+				"folded": false
+			}
+		},
+		"Timelines": {
+			"files": [
+				"timeline-1631464299.json",
+				"timeline-1777835378.json",
+				"timeline-1777852788.json",
+				"timeline-1777916583.json",
+				"timeline-1778864886.json",
+				"timeline-1781632665.json",
+				"timeline-1781632679.json",
+				"timeline-1781632678.json",
+				"timeline-1781632676.json",
+				"timeline-1781632673.json",
+				"timeline-1781632675.json"
+			],
+			"folders": {
+
+			},
+			"metadata": {
+				"color": null,
+				"folded": false
+			}
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"color": "#ff98dede",
+	"description": "",
+	"display_name": "Aslan",
+	"display_name_bool": true,
+	"id": "character-1777851120.json",
+	"mirror_portraits": false,
+	"name": "Aslan",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Artes/ChatGPT Image 28_06_2026, 00_10_16.png"
+		}
+	],
+	"scale": 50,
+	"theme": ""
+}

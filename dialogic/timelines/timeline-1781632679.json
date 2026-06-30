@@ -1,0 +1,192 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A neve finalmente havia parado de cair, como se o próprio céu tivesse se cansado de insistir."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ainda assim, tudo permanecia coberto por um branco espesso, quase sufocante, que apagava caminhos, sons e até lembranças. O ar, porém, já não era o mesmo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Havia algo diferente nele — mais leve, menosdenso — carregando um cheiro sutil de terra úmida e madeira viva"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "um indício tímido de que o inverno, por mais rigoroso que tivesse sido,começava a ceder espaço."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Não era exatamente calor, nem conforto, mas uma mudança perceptível, como um suspiro contido depois de meses de tensão."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você está sentado nos degraus dos fundos da cabana, com os olhos fixos nas árvores que cercam o terreno."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Os galhos, antes completamente tomados pela neve, começam a revelar-se aos restantes, deixando aparecer a madeira escura por baixo da camada branca."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Pequenos blocos de gelo se soltam de tempos em tempos, caindo com sons secos que ecoam no silêncio ao redor."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "É um cenário que deveria trazer alguma interrupção — um sinal de continuidade, de que o tempo segue — mas, para você, só reforça o quanto tudo parece errado."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Três meses se passaram."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Três meses desde a noite em que Aslan foi encontrado caído, o corpo coberto de sangue, a respiração fraca o suficiente para fazer qualquer esperança parecer inútil."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Três meses desde que o Lian dele desapareceu sem deixar vestígios — nenhum sinal de luta claro, nenhuma pista concreta,nenhuma lembrança, nada além de perguntas que se acumularam sem resposta."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Desde então, cada manhã começa a mesma forma: um despertar pesado, uma sensação constante no peito que nunca foi completamente concluída, como se algo tivesse sido arrancado e destruído,sem nada a ser feito."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você permanece ali por mais alguns instantes, imóvel, observando o movimento lento do degelo, como se pudesse encontrar algum sentido naquilo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mas não há resposta."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nunca há."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lá dentro, a lareira crepita com lenha recém-colocada, o som irregular da madeira queimando sendo uma das poucas coisas que ainda parecem constantes."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "O calor atravessa a porta entreaberta, alcançando você de forma leve, insuficiente para afastar o frio que não vem mais apenas do inverno."
+		},
+		{
+			"choice": "Entrar",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Depois de um tempo, você se levanta."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Cada passo até o interior da cabana parece automático, quase mecânico."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ao entrar, o contraste entre o frio de fora e o calor do fogo é imediato, mas não chega a ser reconfortante."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "O ambiente é exatamente como você deixou: silencioso, inquieto."
+		},
+		{
+			"choice": "Ver a cena",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"animation": "slide_in_right.gd",
+			"animation_length": 2,
+			"animation_wait": false,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"change_timeline": "timeline-1781632678.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1781632679.json",
+		"name": "Cap_6"
+	}
+}
