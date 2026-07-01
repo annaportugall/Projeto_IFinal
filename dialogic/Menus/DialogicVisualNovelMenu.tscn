@@ -1,4 +1,4 @@
-[gd_scene load_steps=43 format=2]
+[gd_scene load_steps=45 format=2]
 
 [ext_resource path="res://addons/dialogic/Example Assets/Fonts/DefaultBoldFont.tres" type="DynamicFont" id=1]
 [ext_resource path="res://addons/dialogic/Documentation/Theme/Font/Cinzel/static/Cinzel-Black.ttf" type="DynamicFontData" id=2]
@@ -20,6 +20,7 @@
 [ext_resource path="res://dialogic/Menus/InvestigacaoManager.gd.gd" type="Script" id=18]
 [ext_resource path="res://Artes/diario/ChatGPT Image 1 de jul. de 2026, 14_23_39.png" type="Texture" id=19]
 [ext_resource path="res://dialogic/Menus/ScrollContainer.gd" type="Script" id=20]
+[ext_resource path="res://Artes/diario/font_diary/Seagram tfb.ttf" type="DynamicFontData" id=21]
 
 [sub_resource type="StyleBoxFlat" id=1]
 bg_color = Color( 0.360784, 0.392157, 0.407843, 1 )
@@ -229,6 +230,9 @@ corner_radius_top_left = 30
 corner_radius_top_right = 30
 corner_radius_bottom_right = 30
 corner_radius_bottom_left = 30
+
+[sub_resource type="DynamicFont" id=26]
+font_data = ExtResource( 21 )
 
 [node name="DialogicVisualNovelManager" type="Control"]
 pause_mode = 2
@@ -1007,6 +1011,7 @@ anchor_right = 0.5
 margin_left = -91.5
 margin_right = 91.5
 margin_bottom = 14.0
+custom_fonts/font = SubResource( 26 )
 align = 1
 
 [node name="ScrollContainer" type="ScrollContainer" parent="Diario"]

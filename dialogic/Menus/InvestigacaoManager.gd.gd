@@ -35,9 +35,10 @@ func _receber_sinal(valor):
 		"corrente_lian":
 
 			Global.adicionar_pista(
-				"Corrente de Prata",
+				"Corrente de Prata:",
 				"A corrente de Lian foi encontrada quebrada na floresta.",
 				"Amara"
+				
 			)
 
 		"pegadas":
