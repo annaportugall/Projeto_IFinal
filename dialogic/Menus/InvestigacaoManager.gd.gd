@@ -55,3 +55,11 @@ func _receber_sinal(valor):
 				"Uma carta antiga foi encontrada dentro da biblioteca.",
 				"Lian"
 			)
+		"buceta": 
+			
+			Global.adicionar_pista(
+				"Bucetão",
+				"Uma buceta molhadinha e cabeludona, bem pretona punk de franja",
+				"Piro_Dotado"
+			)	
+			

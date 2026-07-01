@@ -31,15 +31,21 @@ func atualizar_diario():
 	for pista in Global.pistas:
 
 		var label = Label.new()
-
-		label.text = pista["titulo"] \
-		+ "\n\n" \
-		+ pista["descricao"] \
-		+ "\n\nDescoberto por: " \
-		+ pista["personagem"] \
-		+ "\n\n---------------------------\n"
+		
+		label.text = (
+	pista["titulo"].to_upper()
+	+ "\n\n"
+	+ pista["descricao"]
+	+ "\n\n"
+	+ "Descoberto por: "
+	+ pista["personagem"]
+	+ "\n\n"
+)
 
 		label.autowrap = true
+		label.align = Label.ALIGN_LEFT
+		label.valign = Label.VALIGN_TOP
+		label.size_flags_horizontal = Control.SIZE_EXPAND_FILL
 
 		$ScrollContainer/VBoxContainer.add_child(label)
 
