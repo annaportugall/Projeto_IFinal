@@ -1,4 +1,4 @@
-[gd_scene load_steps=39 format=2]
+[gd_scene load_steps=40 format=2]
 
 [ext_resource path="res://addons/dialogic/Example Assets/Fonts/DefaultBoldFont.tres" type="DynamicFont" id=1]
 [ext_resource path="res://addons/dialogic/Documentation/Theme/Font/Cinzel/static/Cinzel-Black.ttf" type="DynamicFontData" id=2]
@@ -150,6 +150,16 @@ corner_radius_bottom_left = 10
 [sub_resource type="DynamicFont" id=17]
 size = 48
 font_data = ExtResource( 3 )
+
+[sub_resource type="StyleBoxFlat" id=21]
+bg_color = Color( 0.117647, 0.117647, 0.117647, 0.784314 )
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color( 0.909804, 0.780392, 0.47451, 1 )
+shadow_color = Color( 0, 0, 0, 0.196078 )
+shadow_size = 5
 
 [sub_resource type="StyleBoxFlat" id=20]
 bg_color = Color( 0.0588235, 0.0588235, 0.0588235, 0.784314 )
@@ -675,6 +685,8 @@ margin_right = 635.0
 margin_bottom = 269.0
 focus_mode = 0
 size_flags_vertical = 3
+custom_colors/font_color_hover = Color( 0.909804, 0.780392, 0.47451, 1 )
+custom_styles/hover = SubResource( 21 )
 custom_styles/normal = SubResource( 20 )
 enabled_focus_mode = 0
 text = "Novo Jogo"
