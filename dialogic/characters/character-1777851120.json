@@ -13,7 +13,7 @@
 	"portraits": [
 		{
 			"name": "Default",
-			"path": "res://Artes/png.png"
+			"path": "res://Artes/Personagens/png.png"
 		}
 	],
 	"scale": 40,
