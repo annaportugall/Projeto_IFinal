@@ -35,23 +35,37 @@ func atualizar_diario():
 
 	for pista in Global.pistas:
 
-		var label = Label.new()
-		
-		label.add_font_override("font", fonte_diario)
-		label.add_color_override("font_color", Color("#2a1b0d"))
-		
-		label.text = pista["titulo"] \
-		+ "\n\n" \
-		+ pista["descricao"] \
-		+ "\n\nDescoberto por: " \
-		+ pista["personagem"] \
+		var bloco = VBoxContainer.new()
+		bloco.size_flags_horizontal = Control.SIZE_EXPAND_FILL
+		bloco.add_constant_override("separation", 8)
 
-		label.autowrap = true
-		label.align = Label.ALIGN_LEFT
-		label.valign = Label.VALIGN_TOP
-		label.size_flags_horizontal = Control.SIZE_EXPAND_FILL
+		var titulo = Label.new()
+		titulo.add_font_override("font", fonte_diario)
+		titulo.add_color_override("font_color", Color("#2a1b0d"))
+		titulo.text = pista["titulo"].to_upper()
+		titulo.align = Label.ALIGN_LEFT
 
-		$ScrollContainer/VBoxContainer.add_child(label)
+		var descricao = Label.new()
+		descricao.add_font_override("font", fonte_diario)
+		descricao.add_color_override("font_color", Color("#2a1b0d"))
+		descricao.autowrap = true
+		descricao.align = Label.ALIGN_LEFT
+		descricao.text = pista["descricao"]
+
+		var investigador = Label.new()
+		investigador.add_font_override("font", fonte_diario)
+		investigador.add_color_override("font_color", Color("#2a1b0d"))
+		investigador.align = Label.ALIGN_LEFT
+		investigador.text = "Descoberto por: " + pista["personagem"]
+
+		var separador = HSeparator.new()
+
+		bloco.add_child(titulo)
+		bloco.add_child(descricao)
+		bloco.add_child(investigador)
+		bloco.add_child(separador)
+
+		$ScrollContainer/VBoxContainer.add_child(bloco)
 
 
 func _input(event):

@@ -13,9 +13,9 @@
 	"portraits": [
 		{
 			"name": "Default",
-			"path": "res://Artes/Amara_Medieval-removebg-preview.png"
+			"path": "res://Artes/Personagens/amara.final.png"
 		}
 	],
-	"scale": 100,
+	"scale": 40,
 	"theme": "theme-1631463496.cfg"
 }

@@ -1,6 +1,119 @@
 {
 	"events": [
-
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Eu não sei onde ele está... nem o que aconteceu de verdade.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uma pausa."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O fogo estala ao fundo, preenchendo o silêncio que ele não quebra."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aslan continua imóvel por alguns segundos a mais do que o normal, como se estivesse preso entre o que sente e o que consegue demonstrar."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A mão dele ainda segura a borda da manta, mas o aperto já não é o mesmo de antes — mais leve, quase esquecido."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Os olhos azuis permanecem voltados para o fogo, mas agora não parecem apenas vazios; há algo ali, pequeno, incômodo, como uma lembrança que não encontra forma."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você não insiste. Não tenta preencher o espaço."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você fica ao lado dele."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O calor da lareira sobe pelo ambiente de maneira constante, desenhando sombras lentas nas paredes de madeira da cabana."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lá fora, o mundo continua frio, distante, indiferente. Aqui dentro, o tempo parece menos definido, como se estivesse cansado de correr."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aslan respira fundo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uma vez."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Depois outra."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "E isso já diz mais do que qualquer palavra."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O cansaço volta a pesar devagar, não como queda, mas como algo inevitável, chegando sem pressa."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A lareira continua viva, constante, como se fosse a única coisa que ainda sabe o que fazer."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Os olhos de Aslan piscam mais lentamente agora."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O movimento da mão dele na manta se desfaz por completo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Então, devagar, ele deixa a cabeça cair sobre o seu ombro."
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5.1",
