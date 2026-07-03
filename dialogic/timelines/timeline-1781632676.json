@@ -192,6 +192,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Como VOCÊ."
+		},
+		{
+			"change_timeline": "timeline-1781632673.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {
