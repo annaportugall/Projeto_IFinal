@@ -1,4 +1,4 @@
-[gd_scene load_steps=60 format=2]
+[gd_scene load_steps=61 format=2]
 
 [ext_resource path="res://addons/dialogic/Example Assets/Fonts/DefaultBoldFont.tres" type="DynamicFont" id=1]
 [ext_resource path="res://addons/dialogic/Documentation/Theme/Font/Cinzel/static/Cinzel-Black.ttf" type="DynamicFontData" id=2]
@@ -268,18 +268,25 @@ tracks/0/keys = {
 }
 
 [sub_resource type="StyleBoxFlat" id=16]
-bg_color = Color( 0.25098, 0.0862745, 0.0862745, 0.972549 )
-corner_radius_top_left = 30
-corner_radius_top_right = 30
-corner_radius_bottom_right = 30
-corner_radius_bottom_left = 30
+bg_color = Color( 0.0784314, 0.0784314, 0.0784314, 0.901961 )
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color( 0.431373, 0.333333, 0.176471, 0.941176 )
 
 [sub_resource type="DynamicFont" id=37]
 size = 40
+outline_size = 1
+outline_color = Color( 0, 0, 0, 1 )
 font_data = ExtResource( 22 )
 
 [sub_resource type="DynamicFont" id=38]
 size = 20
+outline_size = 1
+outline_color = Color( 0, 0, 0, 1 )
+extra_spacing_top = 20
+extra_spacing_bottom = -6
 font_data = ExtResource( 3 )
 
 [sub_resource type="DynamicFont" id=39]
@@ -289,6 +296,12 @@ font_data = ExtResource( 3 )
 [sub_resource type="DynamicFont" id=40]
 size = 20
 font_data = ExtResource( 3 )
+
+[sub_resource type="DynamicFont" id=41]
+size = 40
+outline_size = 1
+outline_color = Color( 0, 0, 0, 1 )
+font_data = ExtResource( 22 )
 
 [sub_resource type="DynamicFont" id=26]
 font_data = ExtResource( 21 )
@@ -327,9 +340,6 @@ Game = NodePath("../../Game")
 anchor_right = 1.0
 anchor_bottom = 1.0
 script = ExtResource( 5 )
-__meta__ = {
-"_edit_use_anchors_": false
-}
 
 [node name="BackgroundColor" type="ColorRect" parent="Menus/MenuContainer/SubMenus"]
 visible = false
@@ -934,7 +944,7 @@ __meta__ = {
 }
 
 [node name="Label" type="Label" parent="Menus/MenuContainer/LooseProgressWarning/WarningPanel/VBoxContainer"]
-modulate = Color( 0.537255, 0.329412, 0, 1 )
+modulate = Color( 0.564706, 0.396078, 0.0941176, 1 )
 margin_top = 17.0
 margin_right = 378.0
 margin_bottom = 54.0
@@ -943,7 +953,7 @@ text = "Cuidado!"
 align = 1
 
 [node name="Label2" type="Label" parent="Menus/MenuContainer/LooseProgressWarning/WarningPanel/VBoxContainer"]
-modulate = Color( 0.6, 0.470588, 0.247059, 1 )
+modulate = Color( 0.862745, 0.862745, 0.862745, 1 )
 margin_top = 58.0
 margin_right = 378.0
 margin_bottom = 135.0
@@ -967,6 +977,10 @@ alignment = 1
 margin_left = 47.0
 margin_right = 179.0
 margin_bottom = 37.0
+focus_mode = 0
+custom_colors/font_color = Color( 0.564706, 0.396078, 0.0941176, 1 )
+custom_colors/font_color_hover = Color( 0.909804, 0.780392, 0.47451, 1 )
+custom_colors/font_color_pressed = Color( 1, 1, 1, 1 )
 custom_fonts/font = SubResource( 39 )
 text = "Continuar"
 flat = true
@@ -975,6 +989,9 @@ flat = true
 margin_left = 219.0
 margin_right = 331.0
 margin_bottom = 37.0
+custom_colors/font_color = Color( 0.564706, 0.396078, 0.0941176, 1 )
+custom_colors/font_color_hover = Color( 0.909804, 0.780392, 0.47451, 1 )
+custom_colors/font_color_pressed = Color( 1, 1, 1, 1 )
 custom_fonts/font = SubResource( 40 )
 text = "Cancelar"
 flat = true
@@ -1019,6 +1036,7 @@ modulate = Color( 0.537255, 0.329412, 0, 1 )
 margin_top = 17.0
 margin_right = 378.0
 margin_bottom = 54.0
+custom_fonts/font = SubResource( 41 )
 text = "Cuidado!"
 align = 1
 
