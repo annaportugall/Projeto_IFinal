@@ -1,4 +1,4 @@
-[gd_scene load_steps=45 format=2]
+[gd_scene load_steps=48 format=2]
 
 [ext_resource path="res://addons/dialogic/Example Assets/Fonts/DefaultBoldFont.tres" type="DynamicFont" id=1]
 [ext_resource path="res://addons/dialogic/Documentation/Theme/Font/Cinzel/static/Cinzel-Black.ttf" type="DynamicFontData" id=2]
@@ -21,6 +21,7 @@
 [ext_resource path="res://Artes/diario/ChatGPT Image 1 de jul. de 2026, 14_23_39.png" type="Texture" id=19]
 [ext_resource path="res://dialogic/Menus/ScrollContainer.gd" type="Script" id=20]
 [ext_resource path="res://Artes/diario/font_diary/Seagram tfb.ttf" type="DynamicFontData" id=21]
+[ext_resource path="res://addons/dialogic/Example Assets/Fonts/trajan-pro/TrajanPro-Bold.otf" type="DynamicFontData" id=22]
 
 [sub_resource type="StyleBoxFlat" id=1]
 bg_color = Color( 0.360784, 0.392157, 0.407843, 1 )
@@ -120,6 +121,14 @@ size = 50
 outline_color = Color( 0.815686, 0.768627, 0.458824, 1 )
 use_mipmaps = true
 font_data = ExtResource( 2 )
+
+[sub_resource type="DynamicFont" id=27]
+size = 30
+font_data = ExtResource( 22 )
+
+[sub_resource type="DynamicFont" id=28]
+size = 20
+font_data = ExtResource( 3 )
 
 [sub_resource type="StyleBoxLine" id=13]
 thickness = 3
@@ -276,13 +285,13 @@ __meta__ = {
 visible = false
 anchor_right = 1.0
 anchor_bottom = 1.0
-color = Color( 0.192157, 0.223529, 0.309804, 1 )
+color = Color( 0.0588235, 0.0588235, 0.0588235, 0.470588 )
 __meta__ = {
 "_edit_use_anchors_": false
 }
 
 [node name="BackgroundTexture" type="TextureRect" parent="Menus/MenuContainer/SubMenus"]
-modulate = Color( 0.658824, 0.639216, 0.901961, 1 )
+modulate = Color( 0.0588235, 0.0588235, 0.0588235, 0.470588 )
 anchor_right = 1.0
 anchor_bottom = 1.0
 texture = ExtResource( 17 )
@@ -312,9 +321,6 @@ margin_top = 9.0
 margin_right = -9.0
 margin_bottom = -9.0
 script = ExtResource( 10 )
-__meta__ = {
-"_edit_use_anchors_": false
-}
 
 [node name="Scroll" type="ScrollContainer" parent="Menus/MenuContainer/SubMenus/MenuContent/SaveMenu"]
 anchor_right = 1.0
@@ -484,11 +490,9 @@ margin_left = 53.4915
 margin_top = 102.0
 margin_right = 273.492
 margin_bottom = 505.0
-__meta__ = {
-"_edit_use_anchors_": false
-}
 
 [node name="MenuTitle" type="Label" parent="Menus/MenuContainer/SubMenus/Buttons"]
+visible = false
 margin_right = 654.0
 margin_bottom = 68.0
 custom_fonts/font = SubResource( 12 )
@@ -497,10 +501,17 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 
+[node name="Label" type="Label" parent="Menus/MenuContainer/SubMenus/Buttons"]
+margin_right = 251.0
+margin_bottom = 31.0
+custom_fonts/font = SubResource( 27 )
+text = "Menu "
+
 [node name="MainMenu_Button" type="Button" parent="Menus/MenuContainer/SubMenus/Buttons"]
-margin_top = 72.0
-margin_right = 654.0
-margin_bottom = 114.0
+margin_top = 35.0
+margin_right = 251.0
+margin_bottom = 55.0
+custom_fonts/font = SubResource( 28 )
 text = "Menu Principal"
 flat = true
 align = 0
@@ -509,9 +520,9 @@ __meta__ = {
 }
 
 [node name="SaveMenu_Button" type="Button" parent="Menus/MenuContainer/SubMenus/Buttons"]
-margin_top = 118.0
-margin_right = 654.0
-margin_bottom = 160.0
+margin_top = 59.0
+margin_right = 251.0
+margin_bottom = 101.0
 text = "Salvar"
 flat = true
 align = 0
@@ -520,9 +531,9 @@ __meta__ = {
 }
 
 [node name="LoadMenu_Button" type="Button" parent="Menus/MenuContainer/SubMenus/Buttons"]
-margin_top = 164.0
-margin_right = 654.0
-margin_bottom = 206.0
+margin_top = 105.0
+margin_right = 251.0
+margin_bottom = 147.0
 text = "Carregar"
 flat = true
 align = 0
@@ -531,9 +542,9 @@ __meta__ = {
 }
 
 [node name="Settings_Button" type="Button" parent="Menus/MenuContainer/SubMenus/Buttons"]
-margin_top = 210.0
-margin_right = 654.0
-margin_bottom = 252.0
+margin_top = 151.0
+margin_right = 251.0
+margin_bottom = 193.0
 text = "Configurações"
 flat = true
 align = 0
@@ -542,9 +553,9 @@ __meta__ = {
 }
 
 [node name="About_Button" type="Button" parent="Menus/MenuContainer/SubMenus/Buttons"]
-margin_top = 256.0
-margin_right = 654.0
-margin_bottom = 298.0
+margin_top = 197.0
+margin_right = 251.0
+margin_bottom = 239.0
 text = "Sobre"
 flat = true
 align = 0
@@ -553,9 +564,9 @@ __meta__ = {
 }
 
 [node name="Quit_Button" type="Button" parent="Menus/MenuContainer/SubMenus/Buttons"]
-margin_top = 302.0
-margin_right = 654.0
-margin_bottom = 344.0
+margin_top = 243.0
+margin_right = 251.0
+margin_bottom = 285.0
 text = "Sair"
 flat = true
 align = 0
@@ -564,16 +575,16 @@ __meta__ = {
 }
 
 [node name="HSeparator" type="HSeparator" parent="Menus/MenuContainer/SubMenus/Buttons"]
-margin_top = 348.0
-margin_right = 654.0
-margin_bottom = 398.0
+margin_top = 289.0
+margin_right = 251.0
+margin_bottom = 339.0
 custom_constants/separation = 50
 custom_styles/separator = SubResource( 13 )
 
 [node name="ResumeGame_Button" type="Button" parent="Menus/MenuContainer/SubMenus/Buttons"]
-margin_top = 402.0
-margin_right = 654.0
-margin_bottom = 444.0
+margin_top = 343.0
+margin_right = 251.0
+margin_bottom = 385.0
 text = "Continuar"
 flat = true
 align = 0
