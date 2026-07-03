@@ -1,4 +1,4 @@
-[gd_scene load_steps=56 format=2]
+[gd_scene load_steps=60 format=2]
 
 [ext_resource path="res://addons/dialogic/Example Assets/Fonts/DefaultBoldFont.tres" type="DynamicFont" id=1]
 [ext_resource path="res://addons/dialogic/Documentation/Theme/Font/Cinzel/static/Cinzel-Black.ttf" type="DynamicFontData" id=2]
@@ -273,6 +273,22 @@ corner_radius_top_left = 30
 corner_radius_top_right = 30
 corner_radius_bottom_right = 30
 corner_radius_bottom_left = 30
+
+[sub_resource type="DynamicFont" id=37]
+size = 40
+font_data = ExtResource( 22 )
+
+[sub_resource type="DynamicFont" id=38]
+size = 20
+font_data = ExtResource( 3 )
+
+[sub_resource type="DynamicFont" id=39]
+size = 20
+font_data = ExtResource( 3 )
+
+[sub_resource type="DynamicFont" id=40]
+size = 20
+font_data = ExtResource( 3 )
 
 [sub_resource type="DynamicFont" id=26]
 font_data = ExtResource( 21 )
@@ -922,6 +938,7 @@ modulate = Color( 0.537255, 0.329412, 0, 1 )
 margin_top = 17.0
 margin_right = 378.0
 margin_bottom = 54.0
+custom_fonts/font = SubResource( 37 )
 text = "Cuidado!"
 align = 1
 
@@ -930,6 +947,7 @@ modulate = Color( 0.6, 0.470588, 0.247059, 1 )
 margin_top = 58.0
 margin_right = 378.0
 margin_bottom = 135.0
+custom_fonts/font = SubResource( 38 )
 text = "Você vai perder todo o progresso não salvo! 
 "
 align = 1
@@ -949,6 +967,7 @@ alignment = 1
 margin_left = 47.0
 margin_right = 179.0
 margin_bottom = 37.0
+custom_fonts/font = SubResource( 39 )
 text = "Continuar"
 flat = true
 
@@ -956,6 +975,7 @@ flat = true
 margin_left = 219.0
 margin_right = 331.0
 margin_bottom = 37.0
+custom_fonts/font = SubResource( 40 )
 text = "Cancelar"
 flat = true
 
