@@ -1,0 +1,81 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "1.4- As palavras saem de você de forma abrupta, sem pensar."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“Faca? Que faca? Não sei do que você tá falando... isso existe mesmo? Engraçado, nunca vi uma na minha vida. Olha... olha como o céu tá bonito hoje. Sério. Até os pássaros estão mais... pássaros, né?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Enquanto fala, você começa a andar de forma desatenta e acaba caindo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Quando você olha para Aslan, ele está rindo — de verdade. Nada forçado, nada contido, só um riso sincero que parece escapar dele depois de muito tempo preso."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "E, por um instante, é como se tudo ao redor ficasse mais leve. É a primeira vez em muito tempo que você vê algo assim nele... e é, sem dúvida, uma das coisas mais bonitas que você já viu."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“Como eu senti falta disso. “"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Eu também.” +4 de luz"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "// Fim do diálogo da decisão 1. (ir com a faca) // Se a escolha foi o 2 (ir sem nada), pode seguir daqui.//"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sem pressa, ele pega o mazer, no gesto calmo de quem acaba de concluir o que estava fazendo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você ainda fica parada."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Um cheiro delicioso se espalha, preenchendo o espaço com algo simples demais. Aslan continua de costas por mais um instante, como se estivesse terminando de organizar os próprios pensamentos junto com o fogo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A água se move sob seu comando, apagando o fogo."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1783354752.json",
+		"name": "cap_15"
+	}
+}

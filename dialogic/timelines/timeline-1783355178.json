@@ -1,0 +1,253 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A chaleira baixa o som."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Só então se vira."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Fiz Bochet ”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-”Você fez?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele toma um gole de sua bebida."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Uhum...Lian me ensinou.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Os olhos azuis encontram os seus com mais firmeza do que antes — não aquela firmeza vazia de obrigação, mas algo mais consciente. Como se ele estivesse realmente ali, inteiro, mesmo que não completamente curado."
+		},
+		{
+			"choice": "Tomar um gole",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Lembrei de uma coisa.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "\"Não é tudo, mas é o suficiente pra seguir.”"
+		},
+		{
+			"choice": "Demonstrar que está ouvindo",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Eles pensaram que eu estava morto... disseram sobre uma estalagem na cidade mais próxima da rota leste. Não era só um lugar comum... era ponto de passagem. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Um lugar que não aparece ser oficialmente, mas todo mundo que trabalha com ‘entregas’ conhece.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele apoia os cotovelos na mesa, mais firme."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "“O Lian foi levado, não foi aleatório. Ele passou por esse tipo de rota. Deve ter algo, uma dica, qualquer coisa, eu não sei.”"
+		},
+		{
+			"choice": "Tomar outro gole",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Então ele conclui, simples: “É por aí que vou começar.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele te olha."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“E eu queria...”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Eu vou.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Nem terminei de falar, Amara.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-”Não importa, ele é a minha família. “"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "E depois disso, ele já começa a se levantar, pronto para entrar."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "“Vamos pra cidade.”"
+		},
+		{
+			"choice": "Ir",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A viagem até a cidade levou seis dias."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Seis dias de estrada a cavalo, cruzando campos que aos poucos abandonavam o branco do inverno e começavam a ganhar tons de verde e terra viva. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O caminho não foi perigoso, mas foi longo — cansativo na maior parte do tempo, lembrando os velhos tempos."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aslan seguia ao seu lado na maior parte do percurso. Não havia aquele peso constante de antes, nem o silêncio desconfortável que tinha marcado os últimos meses na cabana."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Em vez disso, pequenas conversas surgiam e desapareciam com naturalidade, comentários soltos sobre o caminho..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sobre o clima, sobre lembranças antigas que voltavam sem esforço..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "De vez em quando, o ar ao redor dele reage de forma sutil, quase automática."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Um leve ajuste no vento, pequenas correntes de energia que estabilizam o ambiente ao redor, como se o corpo dele tivesse reaprendido a existir em equilíbrio."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você percebe, mas não comenta."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Depois de muito tempo de estrada, a cidade finalmente aparece no horizonte. Primeiro como forma difusa. Depois como estrutura."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Muros baixos de pedra, construções próximas demais umas das outras, fumaça saindo de chaminés antigas e o som distante de atividade constante."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1783355178.json",
+		"name": "cap16"
+	}
+}

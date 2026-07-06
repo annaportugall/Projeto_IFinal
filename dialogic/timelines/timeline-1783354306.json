@@ -1,0 +1,126 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A chaleira no fogo vibra levemente, ajustando a própria posição como se fosse guiada por algo invisível. A água ferve no ponto exato, constante, estável."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Pequenas ondulações de energia atravessam o ambiente ao redor dele, como correntes suaves, organizadas — água e energia se movendo em harmonia, não em conflito."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Ele está usando seus poderes. Mas não como antes. Mais firme. Mais dele."
+		},
+		{
+			"choice": "Encarar",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele não vira de imediato."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“...você acordou.” A voz vem calma."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Diferente da noite anterior — mais centrada, menos quebrada."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "1) // Se escolheu pegar a faca, acontece esse diálogo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Vai caçar?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele percebe sua confusão antes mesmo que você diga qualquer coisa."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "“...a faca.”"
+		},
+		{
+			"choice": "1.3-Guardar faca",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "1.4-Jogar para um canto e se fazer de desentendida.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele te encara em silêncio, exigindo uma resposta que não vai deixar passar."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“Fiquei nervosa ao ouvir alguns barulhos. Melhor ficar atenta, certo?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele te olha com uma expressão serena, mas você percebe: ele se lembrou. Daquela noite. Ainda assim, não deixa nada disso quebrar a postura que escolheu manter."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "1.3- “...certo.” -2 de luz"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1783354306.json",
+		"name": "cap_14"
+	}
+}
